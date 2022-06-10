@@ -362,15 +362,15 @@ img {
 
 .home__footer .ri-heart-line {
 
-	position: relative;
+  position: relative;
 
-	top: 2px;
+  top: 2px;
 
-	font-size: .85rem;
+  font-size: .85rem;
 
   color: hsl(0, 100%, 50%);
 
-  transition: .5s;
+  transition: 0s;
 
   column-gap: .75rem;
 
@@ -378,13 +378,13 @@ img {
 
 .home__footer .ri-heart-line:hover {
 
-	color: var(--second-color);
+  color: var(--second-color);
 
 }
 
 .home__footer {
 
-	text-align: center;
+  text-align: center;
 
   display: flex;
 
@@ -405,8 +405,8 @@ img {
 }
 
 .ri-more-line{
-
-	position: relative;
+	
+  position: relative;
 
   left: -3px;
 
